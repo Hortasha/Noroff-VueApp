@@ -1,5 +1,11 @@
 # Module assignment - VUE
 
+## Requirements
+Check that the following is up to date:
+git
+npm
+node
+
 ## Clone project
 ```
 git clone https://github.com/Hortasha/Noroff-VueApp.git
