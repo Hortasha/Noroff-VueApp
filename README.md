@@ -2,7 +2,7 @@
 
 ## Clone project
 ```
-git clone https://github.com/Hortasha/vue-assignment.git
+git clone https://github.com/Hortasha/Noroff-VueApp.git
 cd into folder
 ```
 
